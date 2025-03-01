@@ -2,3 +2,6 @@ openai
 dotenv
 Ipython
 google-generativeai
+bs4
+gradio
+langchain_groq
